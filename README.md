@@ -4,6 +4,8 @@
 
 A reusable **OWL JS widget library** maintained across **four Odoo framework versions** (16, 17, 18, 19) — inline **Excel editors**, **camera/photo capture** fields, and **live search bars for x2many lists**, with ready-made usage modules on sale orders.
 
+> **Attribution:** the **three core widgets are personal work** (designed & written by me); the per-version ports (16/17/18/19) and sale-order usage modules were maintained by the team.
+
 ```
 ranthox-owl-widgets/
 ├── odoo16/                    # 16 ports
